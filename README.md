@@ -6,3 +6,4 @@ hello
 add with merge with no-ff
 fangbz!
 d
+fix bug
